@@ -52,4 +52,13 @@ Answer 8:
 
     	Initial commit
 Answer 9:
-	
+	On branch master
+	Your branch is up to date with 'origin/master'.
+
+	nothing to commit, working tree clean
+Answer 10: 
+	Yes
+Answer 11:
+	Everything up-to-date
+
+
