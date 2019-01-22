@@ -56,7 +56,7 @@ Answer 9:
 	Your branch is up to date with 'origin/master'.
 
 	nothing to commit, working tree clean
-Anser 10:
+Answer 10:
 	No
 Answer 11:
 	To https://github.com/magmorg/git-lab.git
@@ -67,5 +67,3 @@ Answer 11:
 	hint: to the same ref. You may want to first integrate the remote changes
 	hint: (e.g., 'git pull ...') before pushing again.
 	hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-
-
