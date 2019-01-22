@@ -60,5 +60,9 @@ Answer 10:
 	Yes
 Answer 11:
 	Everything up-to-date
+Answer 12:
+	Yes
+Answer 13:
+	.  ..  answers.md  a.out  .git	git-lab  git-lab-program.cc  README.md
 
-
+	
